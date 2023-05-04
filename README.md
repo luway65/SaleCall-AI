@@ -1,11 +1,5 @@
 # SaleCall-AI
-ChatGPT sale call
-
-Here's the content for your README.md file:
-
-vbnet
-Copy code
-# Real Estate Sales Bot
+ChatGPT sale call Bot
 
 This project creates a real estate sales bot using Twilio, OpenAI's ChatGPT, and ElevenLabs Text-to-Speech APIs. The bot calls a contact, generates a persuasive message for selling a property, and speaks the message using a synthesized voice.
 
